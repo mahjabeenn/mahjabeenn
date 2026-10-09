@@ -1,17 +1,43 @@
-# Hi, I'm Mahjabeen
+<div align="center">
 
-CSE student at the University of Liberal Arts Bangladesh (ULAB).
-Majoring in Networking, with a strong interest in UI/UX design.
+# Mahjabeen
+
+**CSE Student | Networking | UI/UX Enthusiast**
+
+University of Liberal Arts Bangladesh (ULAB)
+
+</div>
+
+---
+
+## Focus
+
+| Major | Interest | Currently |
+|---|---|---|
+| Networking | UI/UX Design | Building skills in design and development |
+
+---
 
 ## Skills
 
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+<div align="center">
 
-## Contact
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-[LinkedIn](your-linkedin-link) | [Email](mailto:farihamahjabeen20@gmail.com)
+</div>
+
+---
+
+## Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-link)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farihamahjabeen20@gmail.com)
+
+</div>
