@@ -1,6 +1,6 @@
 <div align="center">
 
-# Mahjabeen
+# Fariha Mahjabeen
 
 **CSE Student | Networking | UI/UX Enthusiast**
 
